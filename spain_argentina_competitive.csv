@@ -1,0 +1,166 @@
+date,home_team,away_team,home_score,away_score,tournament,country,neutral
+2018-06-15,Portugal,Spain,3,3,World Cup,Russia,True
+2018-06-16,Argentina,Iceland,1,1,World Cup,Russia,True
+2018-06-20,Spain,Iran,1,0,World Cup,Russia,True
+2018-06-21,Croatia,Argentina,3,0,World Cup,Russia,True
+2018-06-25,Morocco,Spain,2,2,World Cup,Russia,True
+2018-06-26,Argentina,Nigeria,2,1,World Cup,Russia,True
+2018-06-30,France,Argentina,4,3,World Cup,Russia,True
+2018-07-01,Russia,Spain,1,1,World Cup,Russia,False
+2018-09-08,England,Spain,1,2,European Nations League A,England,False
+2018-09-11,Spain,Croatia,6,0,European Nations League A,Spain,False
+2018-10-11,Argentina,Iraq,4,0,Friendly tournament,Saudi Arabia,True
+2018-10-15,Spain,England,2,3,European Nations League A,Spain,False
+2018-10-16,Brazil,Argentina,1,0,Friendly tournament,Saudi Arabia,True
+2018-11-15,Croatia,Spain,3,2,European Nations League A,Croatia,False
+2019-03-23,Spain,Norway,2,1,European Championship qual,Spain,False
+2019-03-26,Malta,Spain,0,2,European Championship qual,Malta,False
+2019-06-07,Faroe Islands,Spain,1,4,European Championship qual,Faroe Islands,False
+2019-06-10,Spain,Sweden,3,0,European Championship qual,Spain,False
+2019-06-15,Colombia,Argentina,2,0,Copa America,Brazil,True
+2019-06-19,Argentina,Paraguay,1,1,Copa America,Brazil,True
+2019-06-23,Argentina,Qatar,2,0,Copa America,Brazil,True
+2019-06-28,Argentina,Venezuela,2,0,Copa America,Brazil,True
+2019-07-02,Brazil,Argentina,2,0,Copa America,Brazil,False
+2019-07-06,Argentina,Chile,2,1,Copa America,Brazil,True
+2019-09-05,Romania,Spain,1,2,European Championship qual,Romania,False
+2019-09-08,Spain,Faroe Islands,4,0,European Championship qual,Spain,False
+2019-10-12,Norway,Spain,1,1,European Championship qual,Norway,False
+2019-10-15,Sweden,Spain,1,1,European Championship qual,Sweden,False
+2019-11-15,Spain,Malta,7,0,European Championship qual,Spain,False
+2019-11-18,Spain,Romania,5,0,European Championship qual,Spain,False
+2020-09-03,Germany,Spain,1,1,European Nations League A,Germany,False
+2020-09-06,Spain,Ukraine,4,0,European Nations League A,Spain,False
+2020-10-08,Argentina,Ecuador,1,0,World Cup qualifier,Argentina,False
+2020-10-10,Spain,Switzerland,1,0,European Nations League A,Spain,False
+2020-10-13,Bolivia,Argentina,1,2,World Cup qualifier,Bolivia,False
+2020-10-13,Ukraine,Spain,1,0,European Nations League A,Ukraine,False
+2020-11-12,Argentina,Paraguay,1,1,World Cup qualifier,Argentina,False
+2020-11-14,Switzerland,Spain,1,1,European Nations League A,Switzerland,False
+2020-11-17,Peru,Argentina,0,2,World Cup qualifier,Peru,False
+2020-11-17,Spain,Germany,6,0,European Nations League A,Spain,False
+2021-03-25,Spain,Greece,1,1,World Cup qualifier,Spain,False
+2021-03-28,Georgia,Spain,1,2,World Cup qualifier,Georgia,False
+2021-03-31,Spain,Kosovo,3,1,World Cup qualifier,Spain,False
+2021-06-03,Argentina,Chile,1,1,World Cup qualifier,Argentina,False
+2021-06-08,Colombia,Argentina,2,2,World Cup qualifier,Colombia,False
+2021-06-14,Argentina,Chile,1,1,Copa America,Brazil,True
+2021-06-14,Spain,Sweden,0,0,European Championship,Spain,False
+2021-06-18,Argentina,Uruguay,1,0,Copa America,Brazil,True
+2021-06-19,Spain,Poland,1,1,European Championship,Spain,False
+2021-06-21,Argentina,Paraguay,1,0,Copa America,Brazil,True
+2021-06-23,Spain,Slovakia,5,0,European Championship,Spain,False
+2021-06-28,Argentina,Bolivia,4,1,Copa America,Brazil,True
+2021-06-28,Spain,Croatia,5,3,European Championship,Denmark,True
+2021-07-02,Spain,Switzerland,1,1,European Championship,Russia,True
+2021-07-03,Argentina,Ecuador,3,0,Copa America,Brazil,True
+2021-07-06,Argentina,Colombia,1,1,Copa America,Brazil,True
+2021-07-06,Italy,Spain,1,1,European Championship,England,True
+2021-07-10,Brazil,Argentina,0,1,Copa America,Brazil,False
+2021-09-02,Venezuela,Argentina,1,3,World Cup qualifier,Venezuela,False
+2021-09-02,Sweden,Spain,2,1,World Cup qualifier,Sweden,False
+2021-09-05,Spain,Georgia,4,0,World Cup qualifier,Spain,False
+2021-09-08,Kosovo,Spain,0,2,World Cup qualifier,Kosovo,False
+2021-09-09,Argentina,Bolivia,3,0,World Cup qualifier,Argentina,False
+2021-10-06,Italy,Spain,1,2,European Nations League,Italy,False
+2021-10-07,Paraguay,Argentina,0,0,World Cup qualifier,Paraguay,False
+2021-10-10,Argentina,Uruguay,3,0,World Cup qualifier,Argentina,False
+2021-10-10,France,Spain,2,1,European Nations League,Italy,True
+2021-10-14,Argentina,Peru,1,0,World Cup qualifier,Argentina,False
+2021-11-11,Greece,Spain,0,1,World Cup qualifier,Greece,False
+2021-11-12,Uruguay,Argentina,0,1,World Cup qualifier,Uruguay,False
+2021-11-14,Spain,Sweden,1,0,World Cup qualifier,Spain,False
+2021-11-16,Argentina,Brazil,0,0,World Cup qualifier,Argentina,False
+2022-01-27,Chile,Argentina,1,2,World Cup qualifier,Chile,False
+2022-02-01,Argentina,Colombia,1,0,World Cup qualifier,Argentina,False
+2022-03-25,Argentina,Venezuela,3,0,World Cup qualifier,Argentina,False
+2022-03-29,Ecuador,Argentina,1,1,World Cup qualifier,Ecuador,False
+2022-06-01,Argentina,Italy,3,0,Intercontinental Champ,England,True
+2022-06-02,Spain,Portugal,1,1,European Nations League A,Spain,False
+2022-06-05,Czechia,Spain,2,2,European Nations League A,Czechia,False
+2022-06-09,Switzerland,Spain,0,1,European Nations League A,Switzerland,False
+2022-06-12,Spain,Czechia,2,0,European Nations League A,Spain,False
+2022-09-24,Spain,Switzerland,1,2,European Nations League A,Spain,False
+2022-09-27,Portugal,Spain,0,1,European Nations League A,Portugal,False
+2022-11-22,Saudi Arabia,Argentina,2,1,World Cup,Qatar,True
+2022-11-23,Spain,Costa Rica,7,0,World Cup,Qatar,True
+2022-11-26,Argentina,Mexico,2,0,World Cup,Qatar,True
+2022-11-27,Germany,Spain,1,1,World Cup,Qatar,True
+2022-11-30,Argentina,Poland,2,0,World Cup,Qatar,True
+2022-12-01,Japan,Spain,2,1,World Cup,Qatar,True
+2022-12-03,Argentina,Australia,2,1,World Cup,Qatar,True
+2022-12-06,Morocco,Spain,0,0,World Cup,Qatar,True
+2022-12-09,Argentina,Netherlands,2,2,World Cup,Qatar,True
+2022-12-13,Argentina,Croatia,3,0,World Cup,Qatar,True
+2022-12-18,Argentina,France,3,3,World Cup,Qatar,True
+2023-03-25,Spain,Norway,3,0,European Championship qual,Spain,False
+2023-03-28,Scotland,Spain,2,0,European Championship qual,Scotland,False
+2023-06-15,Spain,Italy,2,1,European Nations League,Netherlands,True
+2023-06-18,Croatia,Spain,0,0,European Nations League,Netherlands,True
+2023-09-07,Argentina,Ecuador,1,0,World Cup qualifier,Argentina,False
+2023-09-08,Georgia,Spain,1,7,European Championship qual,Georgia,False
+2023-09-12,Bolivia,Argentina,0,3,World Cup qualifier,Bolivia,False
+2023-09-12,Spain,Cyprus,6,0,European Championship qual,Spain,False
+2023-10-12,Argentina,Paraguay,1,0,World Cup qualifier,Argentina,False
+2023-10-12,Spain,Scotland,2,0,European Championship qual,Spain,False
+2023-10-15,Norway,Spain,0,1,European Championship qual,Norway,False
+2023-10-17,Peru,Argentina,0,2,World Cup qualifier,Peru,False
+2023-11-16,Argentina,Uruguay,0,2,World Cup qualifier,Argentina,False
+2023-11-16,Cyprus,Spain,1,3,European Championship qual,Cyprus,False
+2023-11-19,Spain,Georgia,3,1,European Championship qual,Spain,False
+2023-11-21,Brazil,Argentina,0,1,World Cup qualifier,Brazil,False
+2024-06-15,Spain,Croatia,3,0,European Championship,Germany,True
+2024-06-20,Spain,Italy,1,0,European Championship,Germany,True
+2024-06-20,Argentina,Canada,2,0,Copa América,United States,True
+2024-06-24,Spain,Albania,1,0,European Championship,Germany,True
+2024-06-25,Argentina,Chile,1,0,Copa América,United States,True
+2024-06-29,Argentina,Peru,2,0,Copa América,United States,True
+2024-06-30,Spain,Georgia,4,1,European Championship,Germany,True
+2024-07-04,Argentina,Ecuador,1,1,Copa América,United States,True
+2024-07-05,Germany,Spain,1,2,European Championship,Germany,False
+2024-07-09,Spain,France,2,1,European Championship,Germany,True
+2024-07-09,Argentina,Canada,2,0,Copa América,United States,True
+2024-07-14,Spain,England,2,1,European Championship,Germany,True
+2024-07-14,Argentina,Colombia,1,0,Copa América,United States,True
+2024-09-05,Serbia,Spain,0,0,European Nations League A,Serbia,False
+2024-09-05,Argentina,Chile,3,0,World Cup qualifier,Argentina,False
+2024-09-08,Switzerland,Spain,1,4,European Nations League A,Switzerland,False
+2024-09-10,Colombia,Argentina,2,1,World Cup qualifier,Colombia,False
+2024-10-10,Venezuela,Argentina,1,1,World Cup qualifier,Venezuela,False
+2024-10-12,Spain,Denmark,1,0,European Nations League A,Spain,False
+2024-10-15,Spain,Serbia,3,0,European Nations League A,Spain,False
+2024-10-15,Argentina,Bolivia,6,0,World Cup qualifier,Argentina,False
+2024-11-14,Paraguay,Argentina,2,1,World Cup qualifier,Paraguay,False
+2024-11-15,Denmark,Spain,1,2,European Nations League A,Denmark,False
+2024-11-18,Spain,Switzerland,3,2,European Nations League A,Spain,False
+2024-11-19,Argentina,Peru,1,0,World Cup qualifier,Argentina,False
+2025-03-20,Netherlands,Spain,2,2,European Nations League,Netherlands,False
+2025-03-21,Uruguay,Argentina,0,1,World Cup qualifier,Uruguay,False
+2025-03-23,Spain,Netherlands,3,3,European Nations League,Spain,False
+2025-03-25,Argentina,Brazil,4,1,World Cup qualifier,Argentina,False
+2025-06-05,Spain,France,5,4,European Nations League,Germany,True
+2025-06-05,Chile,Argentina,0,1,World Cup qualifier,Chile,False
+2025-06-08,Portugal,Spain,2,2,European Nations League,Germany,True
+2025-06-10,Argentina,Colombia,1,1,World Cup qualifier,Argentina,False
+2025-09-04,Bulgaria,Spain,0,3,World Cup qualifier,Bulgaria,False
+2025-09-04,Argentina,Venezuela,3,0,World Cup qualifier,Argentina,False
+2025-09-07,Turkey,Spain,0,6,World Cup qualifier,Turkey,False
+2025-09-09,Ecuador,Argentina,1,0,World Cup qualifier,Ecuador,False
+2025-10-11,Spain,Georgia,2,0,World Cup qualifier,Spain,False
+2025-10-14,Spain,Bulgaria,4,0,World Cup qualifier,Spain,False
+2025-11-15,Georgia,Spain,0,4,World Cup qualifier,Georgia,False
+2025-11-18,Spain,Turkey,2,2,World Cup qualifier,Spain,False
+2026-06-15,Cape Verde,Spain,0,0,World Cup,United States,True
+2026-06-16,Argentina,Algeria,3,0,World Cup,United States,True
+2026-06-21,Spain,Saudi Arabia,4,0,World Cup,United States,True
+2026-06-22,Argentina,Austria,2,0,World Cup,United States,True
+2026-06-26,Spain,Uruguay,1,0,World Cup,Mexico,True
+2026-06-27,Argentina,Jordan,3,1,World Cup,United States,True
+2026-07-02,Spain,Austria,3,0,World Cup,United States,True
+2026-07-03,Argentina,Cape Verde,3,2,World Cup,United States,True
+2026-07-06,Spain,Portugal,1,0,World Cup,United States,True
+2026-07-07,Argentina,Egypt,3,2,World Cup,United States,True
+2026-07-10,Spain,Belgium,2,1,World Cup,United States,True
+2026-07-11,Argentina,Switzerland,3,1,World Cup,United States,True
+2026-07-14,Spain,France,2,0,World Cup,United States,True
+2026-07-15,Argentina,England,2,1,World Cup,United States,True
