@@ -31,4 +31,38 @@ def calculate_nll(xi, data):
     # This acts as the base rate for our lambda calculation
     weighted_avg_home = np.average(data['home_score'], weights=data['weight'])
     weighted_avg_away = np.average(data['away_score'], weights=data['weight'])
+    # Target values to calculate error against
+    home_goals = data['home_score'].values
+    away_goals = data['away_score'].values
+    weights = data['weight'].values
     
+    # Calculate the log-likelihood of observing these goals given the averages
+    # (Using basic averages here for grid search simplicity)
+    home_log_pmf = stats.poisson.logpmf(home_goals, weighted_avg_home)
+    away_log_pmf = stats.poisson.logpmf(away_goals, weighted_avg_away)
+    
+    # Multiply the log-likelihood by the match weights
+    weighted_nll = -np.sum(weights * (home_log_pmf + away_log_pmf))
+    
+    return weighted_nll
+
+# 3. Execution of the Grid Search
+# We will test xi values ranging from 0.001 to 0.015
+xi_candidates = np.linspace(0.001, 0.015, 50)
+best_xi = None
+lowest_nll = float('inf')
+
+print("Starting Grid Search for optimal time-decay parameter (xi)...")
+print("-" * 50)
+
+for xi in xi_candidates:
+    current_nll = calculate_nll(xi, df.copy())
+    print(f"Testing xi: {xi:.4f} -> Negative Log-Likelihood: {current_nll:.2f}")
+    
+    if current_nll < lowest_nll:
+        lowest_nll = current_nll
+        best_xi = xi
+
+print("-" * 50)
+print(f"🎉 Grid Search Complete!")
+print(f"The mathematically optimal xi decay factor is: **{best_xi:.4f}**")

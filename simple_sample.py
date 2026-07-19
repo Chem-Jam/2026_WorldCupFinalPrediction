@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from scipy.stats import poisson
 
-# Load your full modern era dataset to evaluate relative team strengths
+# Load  full modern era dataset to evaluate relative team strengths
 df = pd.read_csv("all_matches.csv")
 df['date'] = pd.to_datetime(df['date'], errors='coerce')
 
